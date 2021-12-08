@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraversalAspNetCoreKamp", "TraversalAspNetCoreKamp\TraversalAspNetCoreKamp.csproj", "{9B133BF8-BD03-4970-B6A9-CF9B6654A48A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TraversalAspNetCoreKamp", "TraversalAspNetCoreKamp\TraversalAspNetCoreKamp.csproj", "{9B133BF8-BD03-4970-B6A9-CF9B6654A48A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{CC426D96-894F-4EFE-9ED3-BB7210B54E48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{CC426D96-894F-4EFE-9ED3-BB7210B54E48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{8B191BB4-AC2E-44DE-BD06-4AE6090F1339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{8B191BB4-AC2E-44DE-BD06-4AE6090F1339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{EF48A485-D653-4B44-8485-A798A3F46870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{EF48A485-D653-4B44-8485-A798A3F46870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{EA77D897-5348-4169-96F3-8214B4FE6372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{EA77D897-5348-4169-96F3-8214B4FE6372}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
